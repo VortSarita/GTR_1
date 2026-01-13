@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "722550311716",
+    "project_id": "database-gtr-101c5",
+    "storage_bucket": "database-gtr-101c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722550311716:android:8bd973d45d4ae7caab41b1",
+        "android_client_info": {
+          "package_name": "com.example.mini_008"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZDRNxrWcfTmkBmbivC0HZELbDkjMSuqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
